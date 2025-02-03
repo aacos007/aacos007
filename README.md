@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on a web-based application, [HTML](https://dledw001.github.io/BabyBites/), that assists with parents/caregivers of young children who are transitioning from liquids (e.g. milk) to solid foods. 
-🌱 I’m currently learning ... CS315, CS355, CS410, CS417, CS450
-📫 aacos007@odu.edu || [GitHub](https://github.com/aacos007)
+🔭 I’m currently working on a web-based application, [BabyBites](https://dledw001.github.io/BabyBites/), that assists with parents/caregivers of young children who are transitioning from liquids (e.g. milk) to solid foods. <br />
+🌱 I’m currently learning ... CS315, CS355, CS410, CS417, CS450 <br />
+📫 aacos007@odu.edu || [GitHub](https://github.com/aacos007) <br />
