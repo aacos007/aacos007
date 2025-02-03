@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ... CS315, CS355, CS410, CS417, CS450 <br />
 🔭 I’m currently working on a web-based application, [BabyBites](https://dledw001.github.io/BabyBites/), that assists with parents/caregivers of young children who are transitioning from liquids (e.g. milk) to solid foods. <br />
 
-# Language Resources 📚 <br /> 
+### Language Resources 📚 <br /> 
 [C++](https://www.w3schools.com/cpp/), [Java](https://www.w3schools.com/java/) <br /> 
